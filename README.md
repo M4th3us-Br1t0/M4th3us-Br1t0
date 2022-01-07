@@ -1,0 +1,13 @@
+- 🇺🇸
+- 👋 Hi, I’m @M4th3us-Br1t0
+- 👀 I’m interested in new opportunities to learn and be active in the community.
+- 🌱 I’m currently learning the basis to start my developer career, trying languages like C, Java and Python.
+- 💞️ I’m looking to collaborate with any project, because I want to add as much as possible to my experience. 
+- 📫 How to reach me: Through my email: matbrit1@gmail.com / Phone or WhatsApp: +55 (11) 958530183
+
+- 🇧🇷
+- 👋 Olá, sou @ M4th3us-Br1t0
+- 👀 Estou interessado em novas oportunidades de aprender e ser ativo na comunidade.
+- 🌱 Atualmente estou aprendendo a base para começar a carreira de desenvolvedor, experimentando as linguagens como C, Java e Python.
+- 💞️ Estou procurando colaborar com qualquer projeto, pois quero agregar o maximo possivel a minha experiencia.
+- 📫 Como entrar em contato comigo: Atráves do meu e-mail: matbrit1@gmail.com / Telefone ou  WhatsApp: +55 (11) 958530183
