@@ -1,7 +1,9 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=621px heigh=200px src=".github/workflows/hey ! I am... Matheus Brito (3).png" />
+<div align="center">
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=621px src=".github/workflows/hey ! I am... Matheus Brito (3).png" />
 &nbsp;&nbsp;&nbsp;
+ </div>
 
+  &nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
