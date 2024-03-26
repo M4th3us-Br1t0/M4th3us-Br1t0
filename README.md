@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src=".github/workflows/hey ! I am... Matheus Brito (1).png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=621px heigh=200px src=".github/workflows/hey ! I am... Matheus Brito (3).png" />
 &nbsp;&nbsp;&nbsp;
 
 
